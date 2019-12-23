@@ -9,8 +9,8 @@
 
 
 <div>
-<img class="wp-image-thumb img-responsive minha-classe" src="https://i.ibb.co/h27g0X7/download-1.png" width="300" height="350" alt="uber-clone" />
-  <img class="wp-image-thumb img-responsive minha-classe" src="https://i.ibb.co/qdxwbyQ/download.png" width="300" height="350" alt="uber-clone" />
+<img class="wp-image-thumb img-responsive minha-classe" src="https://i.ibb.co/h27g0X7/download-1.png" width="400" height="350" alt="uber-clone" />
+  <img class="wp-image-thumb img-responsive minha-classe" src="https://i.ibb.co/qdxwbyQ/download.png" width="400" height="350" alt="uber-clone" />
 </div>
 
 
@@ -22,6 +22,12 @@ Jogo criado em Javascript utilizando a biblioteca Pharse.js.  Projeto para fins 
 
 O jogo é uma sequência de animais que ao clicar é pronunciado o seu respectivo nome em inglês e um audio com o som do animal é emitido. 
 Contem inicialmente 4 animais sendo eles: Cavalo, Galinha, Porco e Ovelha.
+
+# Instalação
+
+Para rodar o jogo você deve clonar o repositório do Git em sua maquina. Rode o comando ```composer install ``` para para que seja realizado a instalação das dependências do Laravel. 
+Após a instalação para iniciar o servidor com o comando ``` php artisan serve ```. 
+Em seu local host na porta 8000 será rodado o jogo.
 
 # Tecnologias usadas
 
