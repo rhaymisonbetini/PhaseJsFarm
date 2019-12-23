@@ -25,8 +25,8 @@ Contem inicialmente 4 animais sendo eles: Cavalo, Galinha, Porco e Ovelha.
 
 # Instalação
 
-Para rodar o jogo você deve clonar o repositório do Git em sua maquina. Rode o comando ```composer install ``` para para que seja realizado a instalação das dependências do Laravel. 
-Após a instalação para iniciar o servidor com o comando ``` php artisan serve ```. 
+Para rodar o jogo você deve clonar o repositório do Git em sua maquina. Rode o comando ```composer install ``` para que seja realizado a instalação das dependências do Laravel. 
+Após a instalação para iniciar o servidor execute o comando ``` php artisan serve ```. 
 Em seu local host na porta 8000 será rodado o jogo.
 
 # Tecnologias usadas
@@ -36,3 +36,4 @@ Em seu local host na porta 8000 será rodado o jogo.
 - Pharse
 - HTML 5
 
+c
