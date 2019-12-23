@@ -7,6 +7,13 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+
+<div>
+<img class="wp-image-thumb img-responsive minha-classe" src="https://i.ibb.co/h27g0X7/download-1.png" width="300" height="350" alt="uber-clone" />
+  <img class="wp-image-thumb img-responsive minha-classe" src="https://i.ibb.co/qdxwbyQ/download.png" width="300" height="350" alt="uber-clone" />
+</div>
+
+
 # Jogo da Fazenda
 
 Jogo criado em Javascript utilizando a biblioteca Pharse.js.  Projeto para fins de aprendizado e prática da criação de jogos com Javascript. 
